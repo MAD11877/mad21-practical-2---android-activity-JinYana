@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "sg.edu.np.madpractical2"
+        applicationId "sg.edu.np.mad.myapplication"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
